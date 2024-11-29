@@ -4,6 +4,9 @@ input, textarea, select {
   appearance: none;
   border: 1px solid var(--stroke-default) ;
   border-radius: .5rem;
+  border: 2px solid transparent;
+  outline: 1px solid var(--stroke-default);
+
 
   padding: .75rem 1rem;
 
